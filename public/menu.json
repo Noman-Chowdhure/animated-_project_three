@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "price": 2.5,
+    "details": "A strong, black coffee made by forcing steam through ground coffee beans.",
+    "image": "https://example.com/images/espresso.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Latte",
+    "price": 3.5,
+    "details": "A creamy coffee made with a shot of espresso and steamed milk.",
+    "image": "https://example.com/images/latte.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "price": 3.0,
+    "details": "A coffee drink made with equal parts espresso, steamed milk, and frothed milk.",
+    "image": "https://example.com/images/cappuccino.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "price": 2.75,
+    "details": "A coffee drink made by diluting an espresso with hot water.",
+    "image": "https://example.com/images/americano.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "price": 4.0,
+    "details": "A chocolate-flavored variant of a latte, made with espresso, steamed milk, and chocolate syrup.",
+    "image": "https://example.com/images/mocha.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Macchiato",
+    "price": 3.25,
+    "details": "An espresso with a small amount of steamed milk, usually foamed.",
+    "image": "https://example.com/images/macchiato.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Flat White",
+    "price": 3.75,
+    "details": "A coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles).",
+    "image": "https://example.com/images/flatwhite.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Affogato",
+    "price": 4.5,
+    "details": "An espresso-based dessert, where a shot of hot espresso is poured over a scoop of vanilla ice cream.",
+    "image": "https://example.com/images/affogato.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Iced Coffee",
+    "price": 3.0,
+    "details": "A cold coffee drink made with brewed coffee and ice cubes, often served with milk or cream.",
+    "image": "https://example.com/images/icedcoffee.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cold Brew",
+    "price": 3.5,
+    "details": "Coffee brewed with cold water over a long period, resulting in a smooth, rich flavor.",
+    "image": "https://example.com/images/coldbrew.jpg"
+  }
+]

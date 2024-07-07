@@ -1,20 +1,24 @@
+import LocomotiveScroll from "locomotive-scroll";
 import { createBrowserRouter } from "react-router-dom";
-import Layout from "../component/layout/Layout";
+import Contact from "../component/contactPage/Contact";
 import Landing from "../component/landingPage/Landing";
-import LocomotiveScroll from 'locomotive-scroll';
+import Layout from "../component/layout/Layout";
 
-const locomotiveScroll = new LocomotiveScroll();
+// const locomotiveScroll = new LocomotiveScroll();
 
 export const router = createBrowserRouter([
   {
     path: "/",
-    element:<Layout></Layout>,
-    children:[
+    element: <Layout></Layout>,
+    children: [
       {
-        path:'/',
-        element:<Landing></Landing>
-      }
-    ]
+        path: "/",
+        element: <Landing></Landing>,
+      },
+      {
+        path: "/contact",
+        element: <Contact></Contact>,
+      },
+    ],
   },
-
 ]);
