@@ -4,7 +4,7 @@ import Contact from "../component/contactPage/Contact";
 import Landing from "../component/landingPage/Landing";
 import Layout from "../component/layout/Layout";
 
-// const locomotiveScroll = new LocomotiveScroll();
+const locomotiveScroll = new LocomotiveScroll();
 
 export const router = createBrowserRouter([
   {

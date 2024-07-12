@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Espresso",
+      "price": 2.5,
+      "details": "A strong, black coffee made by forcing steam through ground coffee beans.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Latte",
+      "price": 3.5,
+      "details": "A creamy coffee made with a shot of espresso and steamed milk.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cappuccino",
+      "price": 3.0,
+      "details": "A coffee drink made with equal parts espresso, steamed milk, and frothed milk.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "price": 2.75,
+      "details": "A coffee drink made by diluting an espresso with hot water.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mocha",
+      "price": 4.0,
+      "details": "A chocolate-flavored variant of a latte, made with espresso, steamed milk, and chocolate syrup.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Macchiato",
+      "price": 3.25,
+      "details": "An espresso with a small amount of steamed milk, usually foamed.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Flat White",
+      "price": 3.75,
+      "details": "A coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles).",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Affogato",
+      "price": 4.5,
+      "details": "An espresso-based dessert, where a shot of hot espresso is poured over a scoop of vanilla ice cream.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Iced Coffee",
+      "price": 3.0,
+      "details": "A cold coffee drink made with brewed coffee and ice cubes, often served with milk or cream.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cold Brew",
+      "price": 3.5,
+      "details": "Coffee brewed with cold water over a long period, resulting in a smooth, rich flavor.",
+      "image": "https://i.pinimg.com/564x/97/69/ef/9769ef2c1a8b6f748d5ce42b3a223177.jpg"
+    }
+  ]
+  

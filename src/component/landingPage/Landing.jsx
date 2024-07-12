@@ -1,20 +1,23 @@
 import React from "react";
-import Header from "./header/Header";
+import "../common/common.css";
 import About from "./about/About";
+import Booking from "./booking/Booking";
+import Header from "./header/Header";
 import Menu from "./menu/Menu";
 import Product from "./product/Product";
-import Booking from "./booking/Booking";
+
+
 
 const Landing = () => {
   return (
-    <div className="w-full h-screen">
+    <div className="">
       <div className="header_section">
         <Header></Header>
       </div>
       <div className="about_us">
         <About></About>
       </div>
-      <div className="coffee_menu bg-gray-400 p-10">
+      <div className="coffee_menu p-10">
         <Menu></Menu>
       </div>
       <div>

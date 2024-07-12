@@ -7,15 +7,16 @@ const Header = () => {
         <div className="text_content md:text-left col-span-3 sm:col-span-1 text-center">
           <h1 className=" capitalize text-4xl">
             a rosted{" "}
-            <span className="text-6xl md:text-5xl xl:text-9xl uppercase font-medium">
+            <span className=" text-orange-900 text-6xl md:text-5xl xl:text-9xl uppercase font-light">
               coffee
             </span>
             for you
           </h1>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam, molestiae tempore incidunt sapiente adipisci accusamus laborum ex! Est, exercitationem atque.</p>
         </div>
         <div className="img_content col-span-3 md:col-span-2 ">
           <img
-            src="https://i.pinimg.com/originals/39/b9/a5/39b9a5e405731092a9e60ad13f546986.gif"
+            src="https://i.pinimg.com/originals/d9/c3/43/d9c343efe2ac92d5b8830d697b10ce12.gif"
             alt=""
           />
         </div>
